@@ -48,11 +48,6 @@ Simple blog application built with Laravel.
 - CRUD Post
 - MySQL Database
 
-### 🔹 WordPress Custom Theme
-Custom WordPress theme for blogging.
-- Responsive design
-- Custom post type
-
 ---
 
 ## 🌱 Currently Learning
