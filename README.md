@@ -18,6 +18,7 @@
 - HTML
 - CSS
 - JavaScript
+- React js
 
 **CMS**
 - WordPress
@@ -47,6 +48,18 @@ Simple blog application built with Laravel.
 - Authentication
 - CRUD Post
 - MySQL Database
+  
+### 🔹 Katalog Digital Product
+Simple web application built with React js & Laravel.
+- Admin dashboard only
+- CRUD Product
+- Futuristic Design
+- 
+### 🔹 Company Profile
+Web application built with React js & Laravel.
+- Responsive Design
+- Dark Mode
+- WhatsApp & Email Integration
 
 ---
 
