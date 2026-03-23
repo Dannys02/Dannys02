@@ -22,14 +22,14 @@
 
 ## About Me
 
-I'm a **Junior Full-Stack Developer** based in Indonesia, focused on crafting functional, responsive, and maintainable web applications. I work primarily with **React.js** and **Next.js** on the frontend, and **Laravel** on the backend — with a strong interest in writing clean, well-structured code.
+I'm a **Junior Full-Stack Developer** based in Indonesia, focused on crafting functional, responsive, and maintainable web applications. I work primarily with **React.js** on the frontend, and **Laravel** on the backend — with a strong interest in writing clean, well-structured code.
 
 I'm actively seeking opportunities — both locally in **Indonesia** and **remote** — where I can contribute, grow, and build impactful products.
 
 ```text
 💼  Available for:   Full-time · Part-time · Freelance
 🌏  Location:        Indonesia (Remote-friendly)
-🌱  Currently:       Deepening Next.js & TypeScript knowledge
+🌱  Currently:       Deepening React.js & TypeScript knowledge
 ⚡  Interests:       Web Performance · REST APIs · Clean Architecture
 ```
 
@@ -57,7 +57,6 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
@@ -66,17 +65,17 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 Laravel Blog Platform</h3>
-      <p>A full-featured blog management system for creating and managing articles and user-generated content.</p>
+      <h3>💰 Simple Cashier Website</h3>
+      <p>A full-featured Simple Cashier system for creating and managing product and categories.</p>
       <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
       </p>
       <ul>
-        <li>Full CRUD for articles & categories</li>
-        <li>User authentication & role management</li>
-        <li>Admin dashboard with content control</li>
+        <li>Full CRUD for product & categories</li>
+        <li>User authentication</li>
+        <li>Admin dashboard</li>
       </ul>
     </td>
     <td width="50%" valign="top">
