@@ -29,7 +29,7 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 ```text
 💼  Available for:   Full-time · Part-time · Freelance
 🌏  Location:        Indonesia (Remote-friendly)
-🌱  Currently:       Deepening React.js & TypeScript knowledge
+🌱  Currently:       Deepening React.js & Laravel
 ⚡  Interests:       Web Performance · REST APIs · Clean Architecture
 ```
 
@@ -39,7 +39,6 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -114,8 +113,6 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 
 | Topic | Status |
 |---|---|
-| Next.js App Router | 🔄 In Progress |
-| TypeScript | 🔄 In Progress |
 | REST API Best Practices | 🔄 In Progress |
 | Docker Basics | 📌 Planned |
 
