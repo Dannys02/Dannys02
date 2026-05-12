@@ -114,7 +114,7 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 | Topic | Status |
 |---|---|
 | REST API Best Practices | 🔄 In Progress |
-| Docker Basics | 📌 Planned |
+| Next JS | 📌 Planned |
 
 ---
 
