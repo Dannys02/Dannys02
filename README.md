@@ -78,17 +78,17 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Product Catalog Dashboard</h3>
-      <p>A modern product management dashboard connecting a React frontend to a Laravel REST API backend.</p>
+      <h3>📊 Barbershop Booking System</h3>
+      <p>Modern barbershop management system with booking via WhatsApp direct link.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
       </p>
       <ul>
-        <li>React + Laravel API integration</li>
-        <li>Product listing, filtering & management</li>
-        <li>Modern, responsive UI design</li>
+        <li>Laravel + Tailwind CSS</li>
+        <li>Booking System via Whatsapp link</li>
+        <li>Modern & responsive UI design</li>
       </ul>
     </td>
   </tr>
