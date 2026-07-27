@@ -70,6 +70,7 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <ul>
         <li>Full CRUD for product & categories</li>
@@ -82,6 +83,8 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
       <p>Modern barbershop management system with booking via WhatsApp direct link.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <ul>
         <li>Laravel + Tailwind CSS</li>
