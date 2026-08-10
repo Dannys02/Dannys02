@@ -114,9 +114,9 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 
 | Topic | Status |
 |---|---|
-| REST API Best Practices | 🟡 Almost Complete |
-| Next JS | 🔄 In Progress |
-| Express JS | 📌 Planned |
+| REST API Best Practices | 🟢 Completed |
+| Next JS | 🟡 Almost Complete |
+| Express JS | 🔄 In Progress |
 
 ---
 
