@@ -117,6 +117,7 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 | REST API Best Practices | 🟢 Completed |
 | Next JS | 🟡 Almost Complete |
 | Express JS | 🔄 In Progress |
+| Figma | 🔄 In Progress |
 
 ---
 
