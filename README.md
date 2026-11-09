@@ -27,10 +27,10 @@ I'm a **Junior Full-Stack Developer** based in Indonesia, focused on crafting fu
 I'm actively seeking opportunities — both locally in **Indonesia** and **remote** — where I can contribute, grow, and build impactful products.
 
 ```text
-💼  Available for:   Full-time · Part-time · Freelance
-🌏  Location:        Indonesia (Remote-friendly)
-🌱  Currently:       Deepening React.js & Laravel
-⚡  Interests:       Web Performance · REST APIs · Clean Architecture
+Available for:   Full-time · Part-time · Freelance
+Location:        Indonesia (Remote-friendly)
+Currently:       Deepening React.js & Laravel
+Interests:       Web Performance · REST APIs · Clean Architecture
 ```
 
 ---
@@ -64,7 +64,7 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 Simple Cashier Website</h3>
+      <h3> Simple Cashier Website</h3>
       <p>A full-featured Simple Cashier system for creating and managing product and categories.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -79,7 +79,7 @@ I'm actively seeking opportunities — both locally in **Indonesia** and **remot
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Barbershop Booking System</h3>
+      <h3> Barbershop Booking System</h3>
       <p>Modern barbershop management system with booking via WhatsApp direct link.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
