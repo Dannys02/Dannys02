@@ -97,19 +97,6 @@ Interests:       Web Performance · REST APIs · Clean Architecture
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dannys02&show_icons=true&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannys02&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=cbd5e1&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dannys02&theme=github-compact&hide_border=true&bg_color=0d1117&color=38BDF8&line=0ea5e9&point=ffffff" />
-</div>
-
----
-
 ## Currently Learning
 
 | Topic | Status |
